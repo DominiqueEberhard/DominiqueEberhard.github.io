@@ -36,4 +36,4 @@
 ---
 
 ## Thank you for considering my application!
-### Dominique Eberhard
+- Dominique Eberhard
