@@ -7,7 +7,7 @@
 - *Note: this project is only intended as a practive project and has never been used to artificially inflate viewcounts (e.g. viewing duration is kept purposely short so as to not count as a view on youtube)*
 - (btw the links are to my own YouTube videos)
 
-![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/Python_Project_Pic.png)
+![](/pictures/Python_Project_Pic.png)
 ---
 
 # [Sample JavaScript Project](https://github.com/DominiqueEberhard/Sample_JavaScript_Projects)
@@ -15,7 +15,7 @@
 - If pressed for time, I recommend looking at the "Cash Register" file or the "Roman Numeral Converter"
 - These projects helped me refine my comand of JavaScript and enhance understanding of Object-Oriented Programming in practice
 
-![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/JavaScript_Project_Pic.png)
+![](/pictures/JavaScript_Project_Pic.png)
 ---
 
 # [Sample Swift Project](https://github.com/DominiqueEberhard/Sample_Swift_Project)
@@ -24,7 +24,7 @@
 - I also drew the logos that I designed with SwiftUI paths and with the help of an online tool that converts XML to SwiftUI paths for certain tricky portions of the logo
 - Run the "ContentViewTest" file in the Xcode project to get an idea of what it should look like
 
-![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/Swift_Project_Pic.png)
+![](/pictures/Swift_Project_Pic.png)
 ---
 
 # [Sample HTML & CSS Project](https://github.com/DominiqueEberhard/Sample_HTML-CSS_Project)
@@ -32,7 +32,7 @@
 - This was created using CodePen.io, hence the MIT license upon exporitng the project
 - *Note: the text on the mock-landing page are all intended to be humorous and tongue-in-cheek*
 
-![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/HTML_CSS_Project_Pic.png)
+![](/pictures/HTML_CSS_Project_Pic.png)
 ---
 
 ## Thank you for considering my application!
