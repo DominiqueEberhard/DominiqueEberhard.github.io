@@ -15,10 +15,8 @@
 ### • My contribution to a collaborative project I did with my brother; I took care of the front-end matters (the actual project is in a private repository on my machine; I used this file as a space to work and pushed the finished code to the actual project file, hence the name "SwiftUIAnimationPractice")
 ### • I created multiple animated loading screens and a "Splash Screen", in addition to desigining all of the visual and audio asset from scratch
 ### • I also drew the logos that I designed with SwiftUI paths and with the help of an online tool that converts XML to SwiftUI paths for certain tricky portions of the logo
-### 
 
 # [Sample HTML & CSS Project](https://github.com/DominiqueEberhard/Sample_HTML-CSS_Project)
-### •
-### •
-### •
-### •
+### • This is a facetious webpage that I designed as a project for FreeCodeCamp.org's HMTL and CSS curriculum
+### • This was created using CodePen.io, hence the MIT license upon exporitng the project
+### • *Note: the text on the mock-landing page are all intended to be humorous and tongue-in-cheek*
