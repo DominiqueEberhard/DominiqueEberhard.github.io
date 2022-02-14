@@ -21,7 +21,11 @@
 - I created multiple animated loading screens and a "Splash Screen", in addition to desigining all of the visual and audio asset from scratch
 - I also drew the logos that I designed with SwiftUI paths and with the help of an online tool that converts XML to SwiftUI paths for certain tricky portions of the logo
 
+![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/Swift_Project_Pic.png)
+
 # [Sample HTML & CSS Project](https://github.com/DominiqueEberhard/Sample_HTML-CSS_Project)
 - This is a facetious webpage that I designed as a project for FreeCodeCamp.org's HMTL and CSS curriculum
 - This was created using CodePen.io, hence the MIT license upon exporitng the project
 - *Note: the text on the mock-landing page are all intended to be humorous and tongue-in-cheek*
+
+![]()
