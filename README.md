@@ -7,6 +7,8 @@
 - *Note: this project is only intended as a practive project and has never been used to artificially inflate viewcounts (e.g. viewing duration is kept purposely short so as to not count as a view on youtube)*
 - (btw the links are to my own YouTube videos)
 
+![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/Python_Project_Pic.png)
+
 # [Sample JavaScript Project](https://github.com/DominiqueEberhard/Sample_JavaScript_Projects)
 - My solutions to the final projects at the end of FreeCodeCamp.org's JavaScript Data Structures and Algorithms Certificate
 - If pressed for time, I recommend looking at the "Cash Register" file or the "Roman Numeral Converter"
