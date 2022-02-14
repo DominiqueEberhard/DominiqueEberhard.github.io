@@ -5,7 +5,7 @@
 - The program then provides a summary of how many times each video was played
 - Intended to be excuted on a MacOS device, with chromedriver and geckodriver needing to be installed to work
 - *Note: this project is only intended as a practive project and has never been used to artificially inflate viewcounts (e.g. viewing duration is kept purposely short so as to not count as a view on youtube)*
-- (btw the links are to my own YouTube videos; my artist name is Balthasar!)
+- (btw the links are to my own YouTube videos)
 
 # [Sample JavaScript Project](https://github.com/DominiqueEberhard/Sample_JavaScript_Projects)
 - My solutions to the final projects at the end of FreeCodeCamp.org's JavaScript Data Structures and Algorithms Certificate
