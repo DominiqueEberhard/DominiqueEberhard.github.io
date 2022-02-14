@@ -14,6 +14,8 @@
 - If pressed for time, I recommend looking at the "Cash Register" file or the "Roman Numeral Converter"
 - These projects helped me refine my comand of JavaScript and enhance understanding of Object-Oriented Programming in practice
 
+![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/JavaScript_Project_Pic.png)
+
 # [Sample Swift Project](https://github.com/DominiqueEberhard/Sample_Swift_Project)
 - My contribution to a collaborative project I did with my brother; I took care of the front-end matters (the actual project is in a private repository on my machine; I used this file as a space to work and pushed the finished code to the actual project file, hence the name "SwiftUIAnimationPractice")
 - I created multiple animated loading screens and a "Splash Screen", in addition to desigining all of the visual and audio asset from scratch
