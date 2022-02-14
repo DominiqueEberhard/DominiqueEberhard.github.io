@@ -28,4 +28,4 @@
 - This was created using CodePen.io, hence the MIT license upon exporitng the project
 - *Note: the text on the mock-landing page are all intended to be humorous and tongue-in-cheek*
 
-![]()
+![](https://github.com/DominiqueEberhard/DominiqueEberhard.github.io/blob/main/pictures/HTML_CSS_Project_Pic.png)
